@@ -11,6 +11,8 @@ PHP v7.4
 4. Run `bin/console doctrine:migrations:migrate`
 5. Run `bin/console users:posts:sync` to fill the database with data
 
+Testable Swagger docs available on homepage.
+
 For static analysis, run `composer run phpstan`. 
 For coding style check, run `composer run cs-fixer-fix`. 
 
