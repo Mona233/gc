@@ -26,7 +26,7 @@ services:
       - './.docker-config/php.ini:/etc/php/php.ini'
     environment:
       PHP_VERSION: '7.4'
-      COMPOSER_ALLOW_XDEBUG: '1
+      COMPOSER_ALLOW_XDEBUG: '1'
       TERM: '$TERM'
     ports:
       - '80:80'
