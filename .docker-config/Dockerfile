@@ -1,6 +1,6 @@
 FROM qalliance/php-apache:latest
 
-MAINTAINER mona20black@gmail.com
+MAINTAINER Mona
 
 USER root
 
